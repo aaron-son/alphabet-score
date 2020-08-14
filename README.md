@@ -1,6 +1,6 @@
 # alphabet-score
 
-Assigns values to 0-4 in a repeating sequence to each letter in the alphabet respectively.
+Assigns values to 0-4 in a repeating sequence to each letter in the alphabet respectively, then calculates a score based on your bonus word.
 
 ## Installation
 
